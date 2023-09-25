@@ -1,0 +1,5 @@
+title: ORLA\*: Mobile Manipulator-Based Object Rearrangement with Lazy A\*
+description: Optimal task planning for Mobile Robot Tabletop Rearrangement.
+baseurl: "" # if your site is at a subpath like `username.github.io/repo-name/`
+url: "https://gaokai15.github.io" # Your GitHub Pages URL or custom domain
+theme: minima # or any other theme you'd like to use
