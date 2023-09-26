@@ -1,5 +1,5 @@
 title: "ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A*"
 author:
-  name: Kai Gao, Yan Ding, Shiqi Zhang, Jingjin Yu
-  email: kg627@scarletmail.rutgers.edu
+  - name: Kai Gao, Yan Ding, Shiqi Zhang, Jingjin Yu
+  - email: kg627@scarletmail.rutgers.edu
 theme: minima # or any other theme you'd like to use
