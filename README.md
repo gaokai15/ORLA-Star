@@ -33,12 +33,12 @@ We study two different scenarios of MoTaR:
     </td>
     <td>
       <p align="center">
-      <img src="https://github.com/gaokai15/ORLA-Star/assets/53358252/70f5f107-7ebf-4571-8e91-7efc1c6f4740" height="300" >
+      <img src="https://github.com/gaokai15/ORLA-Star/assets/53358252/70f5f107-7ebf-4571-8e91-7efc1c6f4740" height="300" width=auto>
       </p>
     </td>
     <td>
       <p align="center">
-      <img src="https://github.com/gaokai15/ORLA-Star/assets/53358252/4d49917d-9f6f-44ed-b336-ca0ea81c7d63" height="300" >
+      <img src="https://github.com/gaokai15/ORLA-Star/assets/53358252/4d49917d-9f6f-44ed-b336-ca0ea81c7d63" height="300" width=auto>
       </p>
     </td>
   </tr>
