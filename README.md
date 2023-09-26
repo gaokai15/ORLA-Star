@@ -1,5 +1,5 @@
-# ORLA-Star
-The webpage for Project: ORLA\*: Mobile Manipulator-Based Object Rearrangement with Lazy A\*. Source Codes and Paper Will be Available Soon.
+
+This is the project webpage of ORLA\*: Mobile Manipulator-Based Object Rearrangement with Lazy A\*. Source Codes and Paper Will be Available Soon.
 
 ## Problem Introduction
 <p align="center">
