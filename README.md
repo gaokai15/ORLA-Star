@@ -73,7 +73,7 @@ We study two different scenarios of MoTaR:
 
 ## Demonstrations on a Physical Robotics System
 <p align="center">
-<video width="400" height="400" autoplay muted loop>
+<video width="400" height="225" autoplay muted loop>
 <source src="https://github.com/user-attachments/assets/5559d9ad-2526-45fd-999d-b7bdd3f69faf" type="video/mp4"> 
 </video>
 </p>
