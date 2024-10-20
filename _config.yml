@@ -1,8 +1,8 @@
 title: "ORLA*"
 # author:
-#   name: "Kai Gao, Yan Ding, Shiqi Zhang, Jingjin Yu"
+#   name: "Kai Gao*, Zhaxizhuoma*, Yan Ding, Shiqi Zhang, Jingjin Yu"
 #   email: "kg627[AT]scarletmail.rutgers.edu"
-author: "Kai Gao, Yan Ding, Shiqi Zhang, Jingjin Yu"
+author: "Kai Gao*, Zhaxizhuoma*, Yan Ding, Shiqi Zhang, Jingjin Yu"
 email: "kg627[AT]scarletmail.rutgers.edu"
 description: "Mobile Manipulator-Based Object Rearrangement with Lazy A*"
 theme: minima # or any other theme you'd like to use
